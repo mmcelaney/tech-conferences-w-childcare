@@ -45,3 +45,4 @@ A publicly compiled list of tech conferences that offer childcare.
 | [Grace Hopper Conference](https://ghc.anitab.org/) | Orlando, FL, USA | Free |
 | [International Conference on Machine Learning (ICML)](https://icml.cc/) | Vienna, Austria | Free |
 | [NeurIPS](https://nips.cc/) | Vancouver, Canada | Free |
+| [PerfMatters](https://perfmattersconf.com/) | Redwood City, CA, USA | Free |
