@@ -18,7 +18,7 @@ A publicly compiled list of tech conferences that offer childcare.
 | [Codeland](codelandconf.com) | New York, NY, USA | ? | 
 | [Write/Speak/Code](writespeakcode.com) | NYC, SF, Chicago, LA, Seattle, & the World | ? | 
 | [RubyConf](rubyconf.org) | Nashville, TN, USA | ? | 
-| [RailsConf](railsconf.org] | Portland, OR, USA | ? | 
+| [RailsConf](railsconf.org) | Portland, OR, USA | ? | 
 | [Linux Foundation Events](https://events.linuxfoundation.org) | Worldwide | ? | 
 | [Women Who Startup™](womenwhostartup.com) | Denver, CO, USA and Worldwide | Free | 
 | [Abstractions](abstractions.io) | Pittsburgh, PA, USA | Free | 
@@ -43,3 +43,5 @@ A publicly compiled list of tech conferences that offer childcare.
 | [Test Bash](https://www.ministryoftesting.com/testbash) | Brighton, Detroit, Netherlands | ? |
 | [DevOpsDays MSP](https://devopsdays.org/events/2019-minneapolis/welcome/) | Minneapolis, MN, USA | ? |
 | [Grace Hopper Conference](https://ghc.anitab.org/) | Orlando, FL, USA | Free |
+| [International Conference on Machine Learning (ICML)](https://icml.cc/) | Vienna, Austria | Free |
+| [NeurIPS](https://nips.cc/) | Vancouver, Canada | Free |
