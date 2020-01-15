@@ -17,8 +17,8 @@ A publicly compiled list of tech conferences that offer childcare.
 | [WordCamp Philly](2019.philadelphia.wordcamp.org) | USA | ? | 
 | [Codeland](codelandconf.com) | New York, NY, USA | ? | 
 | [Write/Speak/Code](writespeakcode.com) | NYC, SF, Chicago, LA, Seattle, & the World | ? | 
-| [RubyConf](rubyconf.org) | Nashville, TN, USA | ? | 
-| [RailsConf](railsconf.org) | Portland, OR, USA | ? | 
+| [RubyConf](rubyconf.org) | Nashville, TN, USA | Free | 
+| [RailsConf](railsconf.org) | Portland, OR, USA | Free | 
 | [Linux Foundation Events](https://events.linuxfoundation.org) | Worldwide | ? | 
 | [Women Who Startup™](womenwhostartup.com) | Denver, CO, USA and Worldwide | Free | 
 | [Abstractions](abstractions.io) | Pittsburgh, PA, USA | Free | 
