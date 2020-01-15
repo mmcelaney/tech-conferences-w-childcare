@@ -13,7 +13,8 @@ A publicly compiled list of tech conferences that offer childcare.
 | [Beer City Code](beercitycode.com) | Grand Rapids, MI, USA | ? | 
 | [Rust Conf](https://rustconf.com/) | Portland, OR, USA | ? | 
 | [WordCamp London](https://2020.london.wordcamp.org/) | London, England | £5 | 
-| [WordCamp US](https://2020.us.wordcamp.org/) | USA | Free | 
+| [WordCamp US](https://us.wordcamp.org/) | USA | Free | 
+| [WordCamp EU](https://europe.wordcamp.org/) | Europe | Free | 
 | [WordCamp Philly](2019.philadelphia.wordcamp.org) | USA | ? | 
 | [Codeland](codelandconf.com) | New York, NY, USA | ? | 
 | [Write/Speak/Code](writespeakcode.com) | NYC, SF, Chicago, LA, Seattle, & the World | ? | 
