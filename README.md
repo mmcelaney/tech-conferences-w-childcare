@@ -5,6 +5,7 @@ A publicly compiled list of tech conferences that offer childcare.
 
 | Conference Name | Location | Is childcare free? |
 | ------------- | -------------| ------------- |
+| [DECONSTRUCT](https://www.deconstructconf.com/) | Seattle, WA, USA | Free |
 | [Revolution Conf](https://revolutionconf.com) | Virginia Beach, VA, USA | ? |
 | [GetConf](https://getconfomaha.com) | Omaha, NE, USA | ? | 
 | [PyCascades](https://2020.pycascades.com) | Pacific Northwest, USA | ? | 
