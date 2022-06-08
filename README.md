@@ -3,29 +3,18 @@ A publicly compiled list of tech conferences that offer childcare.
 
 -------------
 
-| Conference Name | Location | Is childcare free? |
-| ------------- | -------------| ------------- |
-| [DECONSTRUCT](https://www.deconstructconf.com/) | Seattle, WA, USA | Free |
-| [Revolution Conf](https://revolutionconf.com) | Virginia Beach, VA, USA | ? |
-| [GetConf](https://getconfomaha.com) | Omaha, NE, USA | ? | 
-| [PyCascades](https://2020.pycascades.com) | Pacific Northwest, USA | ? | 
-| [Node+JS Interactive](https://events19.linuxfoundation.org/events/nodejs-interactive-2019/) | Montreal, Canada | ? | 
-| [OSCON](https://conferences.oreilly.com/oscon/oscon-or) | Portland, OR, USA | ? | 
-| [Beer City Code](https://beercitycode.com) | Grand Rapids, MI, USA | ? | 
-| [Rust Conf](https://rustconf.com/) | Portland, OR, USA | ? | 
-| [WordCamp London](https://2020.london.wordcamp.org/) | London, England | £5 | 
-| [WordCamp US](https://us.wordcamp.org/) | USA | Free | 
-| [WordCamp EU](https://europe.wordcamp.org/) | Europe | Free | 
-| [WordCamp Philly](https://2019.philadelphia.wordcamp.org) | USA | ? | 
-| [Codeland](https://codelandconf.com) | New York, NY, USA | ? | 
-| [Write/Speak/Code](https://writespeakcode.com) | NYC, SF, Chicago, LA, Seattle, & the World | ? | 
-| [RubyConf](https://rubyconf.org) | Nashville, TN, USA | Free | 
-| [RailsConf](https://railsconf.org) | Portland, OR, USA | Free | 
-| [Linux Foundation Events](https://events.linuxfoundation.org) | Worldwide | ? | 
-| [Women Who Startup™](https://womenwhostartup.com) | Denver, CO, USA and Worldwide | Free | 
-| [Abstractions](https://abstractions.io) | Pittsburgh, PA, USA | Free | 
-| [PyCon](https://pycon.org/) | Worldwide | ? | 
-| [JSConf](https://jsconf.com/) | Worldwide | ? |
+| Conference Name | Date | Location | Is childcare free? |
+| ------------- | -------------| ------------- | ------------- |
+| [PyCascades](https://2022.pycascades.com/) | | Pacific NW | _(?, but offered childcare previously)_ | 
+| [WordCamp US](https://us.wordcamp.org/) | | USA | Free | 
+| [WordCamp EU](https://europe.wordcamp.org/) | | Europe | Free | 
+| [Rust Conf](https://rustconf.com/) | August 5, 2022 | Portland, OR, USA & Virtual | ? | 
+
+
+## To do list (still triaging):
+
+| Conference Name | Date | Location | Is childcare free? |
+| ------------- | -------------| ------------- | ------------- |
 | [CascadiaJS](https://2020.cascadiajs.com) | Seattle, WA, USA | ? |
 | [LambdaConf](https://lambdaconf.zohobackstage.com/LambdaConf2020) | Estes Park, CO, USA | ? |
 | [Stir Trek](https://stirtrek.com) | Columbus, OH, USA | ? |
@@ -50,3 +39,25 @@ A publicly compiled list of tech conferences that offer childcare.
 | [PerfMatters](https://perfmattersconf.com/) | Redwood City, CA, USA | Free |
 | [That Conference](https://www.thatconference.com/wi) | Wisconsin Dells, WI, USA | Kids Track |
 | [CodeMash](https://www.codemash.org/) | Sandusky, OH, USA | Kids Track |
+
+
+## From the Linux Foundation
+
+The Linux Foundation hosts a large number of events and many of them offer free childcare.
+
+| Conference Name | Date | Location | Is childcare free? |
+| ------------- | -------------| ------------- | ------------- |
+| [Linux Foundation Events](https://events.linuxfoundation.org) | Worldwide | ? | 
+| [OpenJS World](https://events.linuxfoundation.org/openjs-world/) | June 6-10, 2022 | Austin, TX, USA | Free |
+| [CD Con](https://events.linuxfoundation.org/cdcon/) | June 7-8, 2022 | Austin, TX, USA | Free |
+| [FinOps X](https://events.linuxfoundation.org/finops-x/) | Jun 20-21, 2022 | Austin, TX, USA | Free |
+| [Open Telemetry Community Day](https://events.linuxfoundation.org/open-telemetry-community-day/) | June 20, 2022 | Austin, TX, USA | Free |
+| [Open Source Summit](https://events.linuxfoundation.org/open-source-summit-north-america/) | June 21-24, 2022 | Austin, TX, USA & Virtual | Free |
+| [Cephalocon](https://events.linuxfoundation.org/cephalocon/) | July 11-13, 2022 | Portland, OR, USA & Virtual | Free |
+| [KVM Forum](https://events.linuxfoundation.org/kvm-forum/) | September 12-14, 2022 | Dublin, Ireland & Virtual | Free |
+| [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/) | September 13-16, 2022 | Dublin, Ireland & Virtual | Free |
+| [Linux Security Summit Europe](https://events.linuxfoundation.org/linux-security-summit-europe/) | September 15-16, 2022 | Dublin, Ireland & Virtual | Free |
+| [O3D Con](https://events.linuxfoundation.org/o3dcon/) | October 18-19, 2022 | Austin, TX, USA & Virtual | Free |
+| [ONE Summit North America](https://events.linuxfoundation.org/one-summit-north-america/) | November 15-16, 2022 | Seattle, WA, USA | Free |
+| [Open Source Summit Japan](https://events.linuxfoundation.org/open-source-summit-japan/) | December 5-6, 2022 | Yokohama, Japan & Virtual | Free |
+| [Open Compliance Summit](https://events.linuxfoundation.org/open-compliance-summit/) | December 7, 2022 | Yokohama, Japan | Free |
