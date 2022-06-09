@@ -5,7 +5,6 @@ A publicly compiled list of tech conferences that offer childcare.
 
 | Conference Name | Date | Location | Childcare cost |
 | ------------- | -------------| ------------- | ------------- |
-| [WordCamp EU](https://europe.wordcamp.org/) | June 2-4, 2022 | Porto, Portugal | Free | 
 | [OpenJS World](https://events.linuxfoundation.org/openjs-world/) | June 6-10, 2022 | Austin, TX, USA | Free |
 | [CD Con](https://events.linuxfoundation.org/cdcon/) | June 7-8, 2022 | Austin, TX, USA | Free |
 | [FinOps X](https://events.linuxfoundation.org/finops-x/) | Jun 20-21, 2022 | Austin, TX, USA | Free |
@@ -23,7 +22,8 @@ A publicly compiled list of tech conferences that offer childcare.
 | [Open Compliance Summit](https://events.linuxfoundation.org/open-compliance-summit/) | December 7, 2022 | Yokohama, Japan | Free |
 | [CodeMash](https://www.codemash.org/) | January 10-13, 2023 | Sandusky, OH, USA | Kids Track |
 | [That Conference](https://that.us/that-conference/) | | Texas & Wisconsin, USA | Kids Track |
-| [Linux Foundation Events](https://events.linuxfoundation.org) | | Worldwide | ? | 
+| [WordCamp EU](https://europe.wordcamp.org/) | | Europe | Free | 
+| [Linux Foundation Events](https://events.linuxfoundation.org) | | Worldwide | Usually free, if offered | 
 
 
 -------------
